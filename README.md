@@ -132,13 +132,15 @@ Easy to drop into your project.
 English: MessageDisplayKit is available under the MIT license, see the LICENSE file for more information.     
 
 ## 须知       Notes
-如果您在您的项目中使用该开源组件,请给我们发[电子邮件](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20MessageDisplayKit)告诉我们您的应用程序的名称，谢谢！主要是为了互推的效果，如果您的app火了，请给予少许的回报，如果您的App不火，或许能通过这个开源库了解到您的App！            
+如果您在您的项目中使用该开源组件，请给我们发[电子邮件](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20MessageDisplayKit)告诉我们您的应用程序的名称，谢谢！主要是为了互推的效果，如果您的app火了，请给予少许的回报，如果您的App不火，或许能通过这个开源库了解到您的App！         
+主要目的只有一个，互推，使用该开源库的开发者，我都会向其保证，永远免费，不涉及任何商业纠纷的事情，请放心使用。
                            
 If you use this open source components in your project, please [Email us](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20MessageDisplayKit) to notify us the name of your application(s). Thanks!
 
 ## What app use this open source
 这里会列出所有使用该开源库的App列表。                     
-[leanchat-ios](https://github.com/leancloud/leanchat-ios)，LeanCloud 提供一站式后端云服务，从数据存储、实时聊天、消息推送到移动统计，涵盖应用开发的多方面后端需求。
+[leanchat-ios](https://github.com/leancloud/leanchat-ios)，LeanCloud 提供一站式后端云服务，从数据存储、实时聊天、消息推送到移动统计，涵盖应用开发的多方面后端需求。                       
+[家信-导购员](https://itunes.apple.com/cn/app/jia-xin-dao-gou-yuan/id918014453?mt=8)家信，专属家居导购员的商务沟通APP。家信app，将家居消费者与离他最近的导购员及时对接。消费者微信在线随时随地与导购员接触沟通；导购员家信在线时时处处为消费者提供各种资讯、商品、咨询、导购服务，辅助消费者决策，促进消费购买，提升服务体验。
 
 ## 使用到的第三方组件
 * [PathCover](https://github.com/JackTeam/PathCover)用于朋友圈的下拉刷新。
